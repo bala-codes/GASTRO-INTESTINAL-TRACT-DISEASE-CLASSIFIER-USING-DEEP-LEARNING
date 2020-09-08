@@ -2,7 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-In this project, I've trained a deep learning model to classify and localize the diseases present in the GI Tract which can be seen in an Endoscopy procedure.
+In this repo, I've trained a deep learning model to classify and localize the diseases present in the GI Tract which can be seen in an Endoscopy procedure.
 
 Dataset available [here](https://datasets.simula.no/kvasir/)
 
